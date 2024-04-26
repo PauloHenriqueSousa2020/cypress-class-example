@@ -8,5 +8,5 @@ Testes e2e utilizando cypress a partir do vídeo do Erick Wendel:
 
 
 ## CI Output
-![ci print results](./ci-output.png)
+![ci print results](./ci_output.png)
 
